@@ -42,7 +42,7 @@ const education = [
 ];
   return (
 
-    <div id="about" className="bg-black min-h-screen py-6 text text-left">
+    <div id="about" className="bg-black min-h-screen py-6 pt-10 text text-left">
       <h1 className="text-5xl font-bold mb-10 text-center text-white">About Me!</h1>
       <div className="flex flex-col md:flex-row items-center justify-between max-w-5xl mx-auto px-10 gap-10">
         <div className="md:w-1/2 text-white">

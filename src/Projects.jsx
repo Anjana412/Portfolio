@@ -19,13 +19,13 @@ const Projects = () => {
     name: "Travela",
     image: img2,
     description: "A personal portfolio website showcasing projects, skills, and contact forms, built with React and Tailwind CSS.",
-    link: "https://anjana412.github.io/fragranzia/",
+    link: "/",
   },
   {
     name: "Portfolio Site",
     image: img3,
     description: "A personal portfolio website showcasing projects, skills, and contact forms, built with html,css,bootstrap, javascript,React and Tailwind CSS,etc",
-    link: "https://anjana412.github.io/fragranzia/",
+    link: "https://portfolio-anjana-ts-projects.vercel.app/",
   },
 ];
 
